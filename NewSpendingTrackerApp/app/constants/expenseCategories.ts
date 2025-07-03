@@ -1,0 +1,21 @@
+export const expenseCategories = [
+    { label: '🍔 Φαγητό & Ποτά', value: 'food' },
+    { label: '☕ Καφές / Σνακ', value: 'snacks' },
+    { label: '🛒 Σούπερ Μάρκετ', value: 'groceries' },
+    { label: '⛽ Καύσιμα', value: 'fuel' },
+    { label: '🚌 Συγκοινωνίες', value: 'transport' },
+    { label: '🚕 Ταξί / Ride-sharing', value: 'taxi' },
+    { label: '🏠 Ενοίκιο', value: 'rent' },
+    { label: '💡 Ρεύμα', value: 'electricity' },
+    { label: '🚿 Ύδρευση', value: 'water' },
+    { label: '🌐 Ίντερνετ / Τηλέφωνο', value: 'internet' },
+    { label: '🧥 Ρούχα / Παπούτσια', value: 'clothing' },
+    { label: '💅 Περιποίηση', value: 'care' },
+    { label: '🏥 Υγεία / Ιατρικά', value: 'health' },
+    { label: '🎬 Ψυχαγωγία', value: 'entertainment' },
+    { label: '📺 Συνδρομές', value: 'subscriptions' },
+    { label: '✈️ Ταξίδια', value: 'travel' },
+    { label: '🎁 Δώρα', value: 'gifts' },
+    { label: '📦 Διάφορα', value: 'other' },
+  ];
+  
